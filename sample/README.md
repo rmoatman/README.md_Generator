@@ -5,7 +5,7 @@
 
 ## Description
 ~~~
-```This application will quickly create and write a README.md file based on user input.  This README.md file was created using the Generator```
+This application will quickly create and write a README.md file based on user input.  This README.md file was created using the Generator
 ~~~
 
 ## Table of Contents
@@ -40,7 +40,7 @@ node index.js
 
 ## License
 ~~~
-```This work is covered under MIT License.  For more information, click on the license badge above.```
+This work is covered under MIT License.  For more information, click on the license badge above.
 ~~~
 
 ## Collaborators
@@ -50,7 +50,7 @@ None
 
 ## Tests
 ~~~
-```Tests were implemented using various or no typed responses to the user prompts to determine if data populated correctly, if the badge was created and displayed correctly (with an active link), and if the table of contents worked correctly.```
+Tests were implemented using various or no typed responses to the user prompts to determine if data populated correctly, if the badge was created and displayed correctly (with an active link), and if the table of contents worked correctly.
 ~~~
 
 ## Questions
