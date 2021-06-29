@@ -36,7 +36,7 @@ npm i inquirer --save
 
 bash
 node index.js
-~~~
+
 
 ## License
 
