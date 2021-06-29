@@ -4,9 +4,9 @@
 
 
 ## Description
-~~~
+
 This application will quickly create and write a README.md file based on user input.  This README.md file was created using the Generator
-~~~
+
 
 ## Table of Contents
 
