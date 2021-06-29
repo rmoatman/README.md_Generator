@@ -11,9 +11,9 @@ ${strBadge}
 
 
 ## Description
-~~~
+
 ${answers.Description}
-~~~
+
 
 ## Table of Contents
 
@@ -26,29 +26,29 @@ ${answers.Description}
 
 
 ## Installation
-~~~
+
 ${answers.Installation}
-~~~
+
 
 ## Usage
-~~~
+
 ${answers.Usage}
-~~~
+
 
 ## License
-~~~
+
 ${licDescr}
-~~~
+
 
 ## Collaborators
-~~~
+
 ${answers.Collaborators}
-~~~
+
 
 ## Tests
-~~~
+
 ${answers.Tests}
-~~~
+
 
 ## Questions
 ~~~

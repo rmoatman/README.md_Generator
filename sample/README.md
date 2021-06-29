@@ -4,9 +4,9 @@
 
 
 ## Description
-~~~
+
 This application will quickly create and write a README.md file based on user input.  This README.md file was created using the Generator
-~~~
+
 
 ## Table of Contents
 
@@ -19,45 +19,35 @@ This application will quickly create and write a README.md file based on user in
 
 
 ## Installation
-~~~
-This application uses methods contained in the npm package: Inquirer.
 
-If needed:
--Initialize repository
-bash
-npm init
+This application uses methods contained in the npm package: Inquirer. If needed:  1) Initialize repository with ‘npm init’ then 2) Install inquirer with ‘npm I inquirer –save’
 
--Install inquirer
-bash
-npm i inquirer --save
-~~~
 
 ## Usage
-~~~
-bash
+
 node index.js
-~~~
+
 
 ## License
-~~~
+
 This work is covered under MIT License.  For more information, click on the license badge above.
-~~~
+
 
 ## Collaborators
-~~~
+
 None
-~~~
+
 
 ## Tests
-~~~
+
 Tests were implemented using various or no typed responses to the user prompts to determine if data populated correctly, if the badge was created and displayed correctly (with an active link), and if the table of contents worked correctly.
-~~~
+
 
 ## Questions
 ~~~
 Have a question or comment?  Please contact me at:
 Raemarie Oatman
 GitHub Username: rmoatman
-GitHub Profile: github.com/rmoatman
+GitHub Profile: github/rmoatman
 raemarie.oatman@gmail.com
 ~~~
