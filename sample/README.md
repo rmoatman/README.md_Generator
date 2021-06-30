@@ -15,7 +15,7 @@ This application will quickly create and write a README.md file based on user in
 - [License](#license)
 - [Collaborators](#collaborators)
 - [Tests](#tests)
-- [Questions?](#questions)
+- [Questions](#questions)
 
 
 ## Installation

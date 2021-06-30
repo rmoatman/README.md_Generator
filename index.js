@@ -22,7 +22,7 @@ ${answers.Description}
 - [License](#license)
 - [Collaborators](#collaborators)
 - [Tests](#tests)
-- [Questions?](#questions)
+- [Questions](#questions)
 
 
 ## Installation
@@ -50,7 +50,7 @@ ${answers.Collaborators}
 ${answers.Tests}
 
 
-## Questions and Contact Information
+## Questions
 ~~~
 Have a question or comment?  Please contact me at:
 ${answers.Name}
