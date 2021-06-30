@@ -50,7 +50,7 @@ ${answers.Collaborators}
 ${answers.Tests}
 
 
-## Questions
+## Questions and Contact Information
 ~~~
 Have a question or comment?  Please contact me at:
 ${answers.Name}
