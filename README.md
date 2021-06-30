@@ -15,7 +15,7 @@ This command-line application will quickly create and write a README.md file bas
 - [License](#license)
 - [Collaborators](#collaborators)
 - [Tests](#tests)
-- [Questions?](#questions)
+- [Questions](#questions)
 
 
 ## Installation
@@ -47,7 +47,7 @@ Collaborators are welcome!  Please 1) open an issue or 2) use the fork-and-pull 
 Tests were implemented using various or no typed responses to the user prompts to determine if data populated correctly, if the badge was created and displayed correctly (with an active link), and if the table of contents worked correctly.
 
 
-## Questions and Contact Information
+## Questions
 ~~~
 Have a question or comment?  Please contact me at:
 Raemarie Oatman
